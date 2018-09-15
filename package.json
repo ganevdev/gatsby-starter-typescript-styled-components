@@ -1,8 +1,7 @@
 {
     "name": "gatsby-starter-typescript-styled-components",
-    "description": "Base on 'gatsby-starter-typescript-plus'",
+    "description": "Based on 'gatsby-starter-typescript-plus'",
     "version": "1.0.0",
-    "private": true,
     "author": "Ivan Ganev <ganevio92@gmail.com>",
     "keywords": [
         "gatsby",
