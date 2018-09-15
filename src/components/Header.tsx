@@ -1,5 +1,5 @@
 import * as React from 'react'
-import styled from 'react-emotion'
+import styled from 'styled-components'
 import { transparentize } from 'polished'
 import { Link } from 'gatsby'
 

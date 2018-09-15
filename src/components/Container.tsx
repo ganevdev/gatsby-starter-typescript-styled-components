@@ -1,5 +1,5 @@
 import * as React from 'react'
-import styled from 'react-emotion'
+import styled from 'styled-components'
 
 import { widths } from '../styles/variables'
 import { getEmSize } from '../styles/mixins'

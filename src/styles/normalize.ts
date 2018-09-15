@@ -1,4 +1,5 @@
-import { injectGlobal } from 'emotion'
+import { injectGlobal } from 'styled-components'
+
 import { dimensions, fonts, colors, breakpoints } from './variables'
 import { getEmSize } from './mixins'
 
