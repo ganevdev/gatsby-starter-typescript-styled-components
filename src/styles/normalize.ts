@@ -1,7 +1,7 @@
-import { injectGlobal } from 'styled-components'
+import { injectGlobal } from 'styled-components';
 
-import { dimensions, fonts, colors, breakpoints } from './variables'
-import { getEmSize } from './mixins'
+import { dimensions, fonts, colors, breakpoints } from './variables';
+import { getEmSize } from './mixins';
 
 // tslint:disable-next-line:no-unused-expression
 injectGlobal`
@@ -160,4 +160,4 @@ injectGlobal`
       padding-left: 1.25rem;
     }
   }
-`
+`;
